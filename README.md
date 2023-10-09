@@ -1,4 +1,4 @@
-# facebook_auto_unfollower_python
+# facebook_auto_unfollower_unlike_page_python
 for unfollow all page on facebook
 
 make the screen layout like this, and run.
